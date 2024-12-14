@@ -1,0 +1,8 @@
+.hom {
+    height: 800px;
+    width: 100%;
+    background-image: url('../../assets/images/bg.png');
+    background-position: center;
+    background-size: cover;
+    padding: 0px 15px;
+}
